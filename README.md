@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=smallfan&show_icons=true&hide_title=true&hide_border=true&theme=tokyonight" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Smallfan&layout=compact&theme=tokyonight" />
 
 ### Hello World 👋
 
