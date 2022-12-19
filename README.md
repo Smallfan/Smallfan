@@ -6,4 +6,4 @@
 - :hammer: To be a full stack engineer
 - :musical_note: Classical violinist
 
-#### Homepage: https://smallfan.net
+#### Blog: https://smallfan.net
