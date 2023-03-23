@@ -3,5 +3,5 @@
 ### Hello World 👋
 
 - :orange_book: Focusing on mobile develop
-- :red_heart: Golang/Backend fan
+- :cupid: Golang/Backend fan
 - :musical_note: Classical violinist
